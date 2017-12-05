@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Enthusiast Software developer, knowledge on various technology solutions, from COBOL to JavaEE, experience on Banking, Insurance, Financing, Energy, Food Sector projects and public websites. Design, development, testing and bug fixing from backend to frontend, loving the Open Source Philosophy and the computer science education.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[GitHub Personal Open Source Projects](https://github.com/simon387)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Linkedin profile](https://www.linkedin.com/in/simone-celia-b5b26a5/)
