@@ -14,7 +14,7 @@ categories: jekyll update
 1. create a new file ```vim ./new_page.markdown```
 1. example of content:
 
-{% highlight markdown %}
+{% highlight jekyll %}
   ---
   layout: page
   title: Other page
