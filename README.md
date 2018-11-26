@@ -15,6 +15,7 @@ For Github Environment:
 ### Note
 
 1. **DO NOT** use dots ```.``` in ```.markdown``` filenames (only one for the extension)!
+2. ```default.html``` override home's layout
 
 ---
 
