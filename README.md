@@ -1,5 +1,7 @@
 # simon387 personal dev site
 
+[theme: jekyll/minima](https://github.com/jekyll/minima)
+
 ## dev
 
 For local environment:
