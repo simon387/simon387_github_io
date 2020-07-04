@@ -9,3 +9,5 @@ Enthusiast Software developer, knowledge on various technology solutions, from C
 [GitHub Personal Open Source Projects](https://github.com/simon387)
 
 [Linkedin profile](https://www.linkedin.com/in/simone-celia-b5b26a5/)
+
+Y6725579W
