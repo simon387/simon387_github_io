@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 3.6.2"
-gem "json", "~> 2.1.0"
+gem "json", "~> 2.3.0"
 gem "jekyll-watch", "~> 1.1.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
