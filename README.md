@@ -21,6 +21,14 @@ For Github Environment:
 
 ---
 
+## Deploy www.simonecelia.it on tophost
+
+### Github pages
++ Custom domain: www.simonecelia.it
++ Enforce HTTPS
+### Tophost cpanel
++ gestione DNS: nuovo record: www CNAME simon387.github.io
+
 ## License
 
 [MIT](https://github.com/simon387/simon387.github.io/blob/master/LICENSE)
