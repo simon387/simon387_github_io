@@ -4,6 +4,13 @@
 
 ## dev
 
+### install
++ sudo dnf install ruby ruby-devel
++ gem install bundler:1.16.0
++ gem install ffi
++ gem install jekyll
++ bundle install
+
 For local environment:
 
 ```bundle exec jekyll serve```
